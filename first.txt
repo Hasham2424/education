@@ -2,3 +2,4 @@ hello world changes
 change from online editor
 changes again
 changes yet again
+changes smart
